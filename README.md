@@ -1,0 +1,2 @@
+# CamaraPlugin
+Cordova
